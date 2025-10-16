@@ -1,0 +1,30 @@
+ 15-10-2025 15:10:06:120 [pid=29457 tid=29457] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 15-10-2025 15:10:06:120 [pid=29457 tid=29457] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 15-10-2025 15:10:06:120 [pid=29457 tid=29457] WARN   0:172 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 15-10-2025 15:10:06:120 [pid=29457 tid=29457] NOTICE  cufio-drv:705 running in compatible mode
+ 15-10-2025 15:10:06:124 [pid=29457 tid=29457] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 15-10-2025 15:10:06:124 [pid=29457 tid=29457] WARN   cufio-plat:429 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 15-10-2025 15:10:06:125 [pid=29457 tid=29457] WARN   cufio-udev:165 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 15-10-2025 15:10:06:467 [pid=29457 tid=29457] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 15-10-2025 16:05:36:961 [pid=42777 tid=42777] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 15-10-2025 16:05:36:962 [pid=42777 tid=42777] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 15-10-2025 16:05:36:962 [pid=42777 tid=42777] WARN   0:172 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 15-10-2025 16:05:36:962 [pid=42777 tid=42777] NOTICE  cufio-drv:705 running in compatible mode
+ 15-10-2025 16:05:36:963 [pid=42777 tid=42777] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 15-10-2025 16:05:36:963 [pid=42777 tid=42777] WARN   cufio-plat:429 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 15-10-2025 16:05:36:963 [pid=42777 tid=42777] WARN   cufio-udev:165 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 15-10-2025 16:05:37:254 [pid=42777 tid=42777] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 15-10-2025 16:33:33:409 [pid=166979 tid=166979] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 15-10-2025 16:33:33:410 [pid=166979 tid=166979] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 15-10-2025 16:33:33:410 [pid=166979 tid=166979] WARN   0:172 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 15-10-2025 16:33:33:410 [pid=166979 tid=166979] NOTICE  cufio-drv:705 running in compatible mode
+ 15-10-2025 16:33:33:411 [pid=166979 tid=166979] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 15-10-2025 16:33:33:411 [pid=166979 tid=166979] WARN   cufio-plat:429 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 15-10-2025 16:33:33:412 [pid=166979 tid=166979] WARN   cufio-udev:165 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 15-10-2025 16:33:33:828 [pid=166979 tid=166979] ERROR  cufio-topo-udev:431 no device entries present in platform topology
